@@ -1,0 +1,12 @@
+{
+  "export_job_id": "972c958a-1f91-4a3e-9df3-39cccf086610",
+  "id_short": 918491,
+  "published_at": "2026-04-15T19:29:21Z",
+  "repo_name": "all-restaurants-in-houston-texas-us-sample-918491",
+  "sample_asset_name": "beamstation_918491_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/918491/beamstation_918491_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "6cee607826d44cdadb1b8bbe390586941befcfa43272bbcf3922667838c4d2ae",
+  "sample_size_bytes": 3190192,
+  "total_records": 13726
+}
