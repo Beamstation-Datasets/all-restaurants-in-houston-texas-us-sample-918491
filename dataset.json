@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Houston, Texas with a population of over 2,304k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
   "config_name": "All Restaurants in Houston, Texas, US",
-  "export_job_id": "972c958a-1f91-4a3e-9df3-39cccf086610",
+  "export_job_id": "2f346a0c-c29d-4666-9311-114354bbfb61",
   "github_org": "Beamstation-Datasets",
   "id_short": 918491,
   "location_name": "Houston",
   "location_type": "city",
   "repo_name": "all-restaurants-in-houston-texas-us-sample-918491",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/918491/beamstation_918491_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 7.29,
+  "sample_pct": 7.44,
   "sample_records": 1000,
   "sample_sha256": "6cee607826d44cdadb1b8bbe390586941befcfa43272bbcf3922667838c4d2ae",
   "sample_size_bytes": 3190192,
-  "total_records": 13726,
-  "updated_at": "2026-04-07T15:28:24.220579+00:00"
+  "total_records": 13444,
+  "updated_at": "2026-04-14T21:54:32.620207+00:00"
 }
