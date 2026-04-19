@@ -9,9 +9,9 @@
 | Dataset ID | `918491` |
 | Location | Houston |
 | Category | Restaurants |
-| Full dataset size | 13,726 records |
-| Free sample size | 1,000 records (7.29%) |
-| Last export | 2026-04-07T15:28:24.220579+00:00 |
+| Full dataset size | 13,444 records |
+| Free sample size | 1,000 records (7.44%) |
+| Last export | 2026-04-14T21:54:32.620207+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-houston-texas-us-sample-918491/releases/download/sample-latest/beamstation_918491_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
